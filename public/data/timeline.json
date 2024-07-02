@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "title": "Software Developer in Test 2",
+            "company": "Absolute Security",
+            "tasks": "Building test tools and test frameworks.",
+            "tags": ["Python", "Azure Service Bus", "Groovy", "Jenkins Pipelines", "Rest API", "TDD"],
+            "year": "Present"
+        },
+        {
+            "title": "QA Engineer",
+            "company": "Qualitest",
+            "tasks": "Converted manual test to automation, extensive medical device testing.",
+            "tags": ["Squish", "Python", "C#", "SpecFlow", "BDD"],
+            "year": "2020"
+        },
+        {
+            "title": "QA Automation Engineer",
+            "company": "Accurate Background",
+            "tasks": "Developed automation for the Rest APIs on AWS.",
+            "tags": ["Java", "Springboot", "REST", "AWS"],
+            "year": "2019"
+        },
+        {
+            "title": "Software QA Engineer",
+            "company": "Phunware",
+            "tasks": "Worked on advertising and indoor location mapping platforms as Test Engineer.",
+            "tags": ["Java", "Selenium", "REST", "AWS"],
+            "year": "2018"
+        },
+        {
+            "title": "Master of Science",
+            "company": "Northeastern University",
+            "tags": ["Python", "Data Networks", "Network Security"],
+            "year": "2017"
+        },
+        {
+            "title": "Software QA Engineer",
+            "company": "Capgemini",
+            "tasks": "Manual, performance, automation testing in ERM, finance and web domains.",
+            "tags": ["UFT", "VB Script", "Web"],
+            "year": "2015"
+        },
+        {
+            "title": "Bachelor of Engineering",
+            "company": "University of Mumbai",
+            "tags": ["C++", "Java", "Electronics"],
+            "year": "2013"
+        }
+
+    ]
+}
