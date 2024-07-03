@@ -1,3 +1,7 @@
+// Thank you for using FormSubmit! You're only one step away from making forms on http://localhost:3000/ functional. Click 'Activate Form' to begin receiving submissions from this form.
+
+// Use this random-like string f72ff68708771df096bbb0d285a462df to replace your naked email address in the action attribute of your form.
+
 function Contact () {
     return (
       <section className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 desktop:w-1/3 mobile:w-full mobile:px-4 mobile:max-w-3xl">
