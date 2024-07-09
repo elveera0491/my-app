@@ -5,7 +5,7 @@ import SocialMedia from "@/static/SocialMedia";
 import Typing from "@/static/Typing";
 import Link from "next/link";
 import Arrow from "@/static/Arrow";
-import profilePic from "@../../../public/elveera_sq.svg"
+import profilePic from "@../../../public/elveera_SVG.svg"
 
 
 // Set size to view instead of pixel value to scale fonts automatically. Eg: mobile:text-[5vw]
