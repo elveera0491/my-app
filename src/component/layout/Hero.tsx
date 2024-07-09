@@ -5,6 +5,7 @@ import SocialMedia from "@/static/SocialMedia";
 import Typing from "@/static/Typing";
 import Link from "next/link";
 import Arrow from "@/static/Arrow";
+import profilePic from "@../../../public/elveera_sq.svg"
 
 
 // Set size to view instead of pixel value to scale fonts automatically. Eg: mobile:text-[5vw]
@@ -20,8 +21,8 @@ function Hero() {
                 </p>
                 <div className='flex mobile:hidden mt-6 justify-start w-[17vw]'><SocialMedia size={100} /></div>
             </div>
-            {/* <img className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse rounded-full" src="/elveera.png" alt="Portrait" /> */}
-            <Image className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse rounded-full" src="/elveera.png" alt="" width={10} height={10} />
+            {/* <img className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse rounded-full" src="/static/elveera.png" /> */}
+            <Image className="w-2/5 mobile:w-full mobile:max-w-xl object-contain self-center animate-scalepulse rounded-full" src={profilePic.src} alt="" width={100} height={100} />
         </div>
         <div className="desktop:absolute desktop: bottom-10 inset-0 flex items-end py-2 justify-center z-10">
             <Link href={"/#About"} aria-label='About' >
